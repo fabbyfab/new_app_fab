@@ -44,7 +44,7 @@ NEXT_PUBLIC_URL=
 ```bash
 npm run dev
 ```
-
+## Features.
 ## Customization
 
 ### Update Manifest Configuration
