@@ -75,7 +75,7 @@ NEXT_PUBLIC_ONCHAINKIT_API_KEY=<Replace-WITH-YOUR-CDP-API-KEY>
 NEXT_PUBLIC_URL=https://your-vercel-project-name.vercel.app/
 ```
 
-### 3. Upload environment variables to Vercel
+### 3. Télécharger depuis l'environnement
 
 Add environment variables to your production environment:
 
